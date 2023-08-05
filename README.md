@@ -1,5 +1,5 @@
 # Vaccine-Reservation
-The Vaccine Reservation System is an online platform for vaccine appointments, comprising backend management(Java, Spring Boot) and frontend user interfaces(JavaScript, React) using a frontend-backend separation approach.
+The Vaccine Reservation System is an online platform for vaccine appointments, comprising backend management(**Java, Spring Boot**) and frontend user interfaces(**JavaScript, React**) using a frontend-backend separation approach.
 
 **Key Technical Features**:
 - Built on SpringBoot and SpringCloud for a sturdy microservices framework.
